@@ -16,7 +16,7 @@ If AI guidance files disagree, use this precedence order:
 
 ## Project overview
 
-`netbox-security` is a NetBox plugin for tracking security and NAT related objects.
+`netbox-security` is a NetBox plugin for tracking security and NAT-related objects.
 
 Core plugin areas:
 
